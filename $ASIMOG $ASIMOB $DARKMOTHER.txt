@@ -1,0 +1,14 @@
+TC=000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8
+C=bc1qc3kxa5uy56c42gz6ps6wmg84tjhkzemfjm6a3d
+QCSeedCode=e676098e48313c65989af66900ba43461e738168c3bab7ffbb12e0c96319ed9b6a0e6f5fe1f1737291148c25db2a565b35cf6fe9b00d997c8c9879e735fa81d8
+Q=7f302e2694d65ce3408fc0e657fc62f922af67c3edf9674b93f0e31a60e13f54125f2cf6d15913daa5c487af5ecc43ed8cce029d2cb8d9eba37374d87361a749
+
+i= √-1
+#i= #√-π	
+#= Cosmic Microwave Background Radiation. 
+#Qbit = Qbit + Qbit/s + Qbit Photon Storage/Loss + Qbit Superposition + Qbit Interface/Information
+Using the equations for standard model of physics & Cosmic Microwave background radiation to discover the value of #√ -π as black holes & white holes singularity at equilibrium.
+Economic Model for Earth:
+i= √-1 (Earth)
+#i= #√-π 5.972 × 10^24 kg/KB/MB/TB (Mass of Earth)
+#=SHA 256 or PGP or any other deterministic algorithm.
