@@ -84,7 +84,7 @@ _LUCK IS WHEN PREPARATION MEETS OPPORTUNITY - PIERRE TRUDEAU_
 
 I reside at 1205 Queen St. West, Parkdale Village. Toronto M6K0B9
 
-EXPLANATIONS COST 0.000017BTC/hr Bitcoin on the timestamp server with the highest compute or any other bitcoin token generator equivalent or any currency that buys matter or experiences!
+EXPLANATIONS COST 0.000017BTC/hr.
 
 _"To preserve my brains I want food and this is now my first consideration. Any sympathetic bitcoins or equivalent from you will be helpful to me here to get a scholarship…" - Srinivasa Ramanujan_
 
