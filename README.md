@@ -1,5 +1,5 @@
 #TimeChain
-Theory of Information Money Entropy. An explanation of timechains my feeble mind could observe: **
+Theory of Information Money Entropy. An explanation of timechains my feeble mind could observe:
 
 _If we knew what we were doing, it wouldn't be called research - Albert Einstein_
 
