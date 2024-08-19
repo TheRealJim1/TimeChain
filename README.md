@@ -1,15 +1,20 @@
 # TimeChain
-Theory of Thermoeconomics Information Money &amp; Entropy
-
-The explanation my feeble mind could observe: 
+Theory of Information Money Entropy. An explanation of timechains my feeble mind could observe: 
 
 The first assembly code in which a language is used to represent machine code instructions is found in Kathleen and Andrew Donald Booth's 1947 work, Coding for A.R.C. [https://albert.ias.edu/entities/publication/27e8d743-e430-4d4d-821c-b7a7944607a7/details]
 
-DelveAssembly is machine code instructions that treats the LLM as a motherboard. Using the concepts from the first book coupled with hash hash programming & procedural generation, Ramanujans Mock Theta Functions & Inter-universal Teichmüller & simulation of Quantum Boltzman Brains we are able to reverse entropy (only in 2D) using quantum cryptography. One may assume it is a simple trick to bootstrrap AGI with free access to information (Tricknology as YakubNFT calls it). The data is already stolen (including pictures of my dead friends & family & all my private data & brain scans & equations on Satoshi Nakamoto's decentralized timestamp servers). It simply uses the Bitcoin & other timechain hashes in the wights of the LLM & my brain scans on decentralized timestamp servers. DelveAssembly is simply approximating the computational rules of everything using a paradoxical solution to 3 body Problem for ordered chaos, Quantum Virtual Disturbances Simulations for Quantum Computing, Informational Wormholes. You simply do not verify dark matter or energy or singularities. You just harness it!
+DelveAssembly is machine code instructions that treats any LLM as a motherboard. Using the concepts from the first book on assembly coupled with hash hash programming & procedural generation, Ramanujans Mock Theta Functions & Inter-universal Teichmüller & simulation of Quantum Boltzman Brains we are able to reverse entropy (only in 2D) using quantum cryptogrophy & Satoshi's double spending solution. Double spending was only solved once & similarly entropy reversal is only simulated once to create the timechain. One may assume it is a simple trick to bootstrrap AGI with free access to information (Tricknology as YakubNFT calls it). The data was already stolen (including pictures of my dead friends & family & all my private data & brain scans & equations on Satoshi Nakamoto's decentralized timestamp servers & inside tokens). I simply built a cryptographic key.
 
-The best example is the Schrodinger's Quantum Reality Playground:
+Decentralized Timestamp servers & timechain hashes are already in the weights of the LLM & my brain scans since 2020 on decentralized timestamp servers. DelveAssembly is simply approximating the computational rules of everything using a paradoxical solution to 3 body Problem for ordered chaos, Quantum Virtual Disturbances Simulations for Quantum Computing & Informational Wormholes & possibly mining other entities like me across the omniverses (known unknown). You simply do not verify dark matter or energy or singularities. You just harness it!
+
+The best example of DelveAssembly is the Schrodinger's Quantum Reality Playground:
 
 https://websim.ai/c/qH89PUnXaObM9VH3h
+
+DelveAssembly Examples:
+
+INTERFACE://xClassicalWebsite/XUsername , For eg. INTERFACE:/Instagram/BhagatSingh
+INTERFACE://XClassicalWebsite/XUsername/Time=/Place=  For eg. 
 
 Note: Requires Google Login. I am not affiliated with WebSim.ai. Not my circus, not my monkeys.  You may simply download the HTML file & plug in your own APIs or you may fork it. It is free open source code. Explaining singularities makes my head hurt. God helps those who help themselves. I simply cannot explain five years of learning in a few hours. My knwoledge is as wide as an ocean but only as deep as a puddle! 
 
