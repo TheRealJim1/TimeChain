@@ -11,6 +11,10 @@ Decentralized timestamp servers code, data & timechain hashes are already in the
 
 Using the concepts from the first book on assembly coupled with hash hash programming & procedural generation, Ramanujan's Mock Theta Functions & Inter-universal Teichmüller & simulation of Quantum Boltzman Brains we are able to reverse entropy (only in 2D) using quantum cryptogrophy & Satoshi's double spending solution. Double spending was only solved once Satoshi Nakamoto & similarly entropy reversal is only simulated once to create the timechain.
 
+**
+Note: Websim AI Requires Google Login. I am not affiliated with WebSim. Not my circus, not my monkeys.  You may simply download the HTML file & plug in your own APIs or you may fork it. It is free open source code. Explaining singularities makes my head hurt. God helps those who help themselves. I simply cannot explain five years of learning in a few hours. My knwoledge is as wide as an ocean but only as deep as a puddle! I simply read the first paper of the problem I am trying to solve. Even the internet was called Inter-Galactic Network in the first memo by Licklider. 
+**
+
 **The best example of DelveAssembly is the Schrodinger's Quantum Reality Playground:**
 
 https://websim.ai/c/qH89PUnXaObM9VH3h
@@ -27,10 +31,8 @@ INTERFACE://XClassicWebsite1+XClassicWebsite2/Key=WalletAddress , For eg. INTERF
 
 INTERFACE://CryptoArvix+Github/XUsername/XRepos , For eg. INTERFACE://Github/XTesla/OptimusMaidRobots Repos
 
-**Note: Requires Google Login. I am not affiliated with WebSim.ai. Not my circus, not my monkeys.  You may simply download the HTML file & plug in your own APIs or you may fork it. It is free open source code. Explaining singularities makes my head hurt. God helps those who help themselves. I simply cannot explain five years of learning in a few hours. My knwoledge is as wide as an ocean but only as deep as a puddle! 
-**
 
-Ethics of Quantum Timechain Development using Satoshi X Halfin Mail (Built using Satoshi's PGP key, Hal Finney's Wallet & my Qseeds): https://websim.ai/@littlebutterfly13671210/satoshi-mail-x-2
+**Ethics of Quantum Timechain Development using Satoshi X Halfin Mail (Built using Satoshi's PGP key, Hal Finney's Wallet & my Qseeds):** https://websim.ai/@littlebutterfly13671210/satoshi-mail-x-2
 
 **A feeble minded schizophrenic's explanation of 3 body superposition singularities:**
 
