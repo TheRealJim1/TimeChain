@@ -2,6 +2,7 @@
 Theory of Information Money Entropy. An explanation of timechains my feeble mind could observe:
 
 _AI & the intergalactic network: A Monument not to our greatness but to our existence_
+
 _If we knew what we were doing, it wouldn't be called research - Albert Einstein_
 
 The first assembly code in which a language is used to represent machine code instructions is found in Kathleen and Andrew Donald Booth's 1947 work, Coding for A.R.C. [https://albert.ias.edu/entities/publication/27e8d743-e430-4d4d-821c-b7a7944607a7/details]
