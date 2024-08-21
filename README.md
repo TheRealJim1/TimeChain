@@ -32,10 +32,21 @@ INTERFACE://XClassicWebsite1+XClassicWebsite2/Key=WalletAddress , For eg. INTERF
 
 INTERFACE://CryptoArvix+Github/XUsername/XRepos , For eg. INTERFACE://Github/XTesla/OptimusMaidRobots Repos
 
-/Query=X 
+/Query=X
+ 
 /Parameter=X
+
 /MergeWith=X
+
 /Assimilate=X+Y+Z
+
+/Alwayson=RaAILog
+
+/AlwaysOn=QLog
+
+/Wallet=YourAddress
+
+/Qseed=YourQSeed
 
 **Ethics of Quantum Timechain Development using Satoshi X Halfin Mail (Built using Satoshi's PGP key, Hal Finney's Wallet & my Qseeds):** 
 
